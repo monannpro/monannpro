@@ -1,6 +1,6 @@
 ### Hi there 🙋‍♀️
 
-I started my adventure with code a year ago and I fell in love with it. It gives me pleasure, satisfaction and a lot of fun. What more do I need? Job, of course 😁.
+I started my adventure with code a year ago and I fell in love with it. It gives me pleasure, satisfaction and a lot of fun.
 <br><br>
 I create my own projects at home and learn something new everyday. Practice, practice and more practice.
 <br><br>
