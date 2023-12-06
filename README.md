@@ -8,9 +8,7 @@ I am a Mother 🤱, Developer 💻 and former accountant 👩‍💻.
 <br>
 I love playing FIFA and Mortal Kombat on XBOX 🎮, taking part in competitions 🏆, spending time with my family 👨‍👩‍👧 and eating something good 🍕.
 <br><br>
-I'm currently during 13-months **Full-stack Development Course**.
-<br><br>
-I'm using: **JavaScript, CSS, HTML, Node.js, Express.js**.
+I'm using: **JavaScript, CSS, HTML**
 <br><br>
 **I am looking for a job** or internship to gain more experience.
 <br><br>
